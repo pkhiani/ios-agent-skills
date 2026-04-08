@@ -19,3 +19,7 @@ This repository curates powerful, specialized skills designed to streamline the 
 
 * **[ASO App Store Screenshots (`aso-appstore-screenshots`)](./Marketing/appstore-screenshots/)**
   Generate high-converting App Store screenshots by analyzing your app's codebase, discovering core benefits, and creating ASO-optimized screenshot images using Antigravity's image generation tools. It ensures your store assets are visually compelling and adhere natively to Apple's dimensions.
+
+---
+
+*Disclaimer: Some of the skills and patterns here are referenced from or inspired by external sources and are not my original creations. Their respective licenses are included within their folders where applicable.*
