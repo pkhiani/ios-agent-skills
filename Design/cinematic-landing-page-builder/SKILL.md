@@ -1,3 +1,9 @@
+---
+name: cinematic-landing-page-builder
+description: Build high-fidelity, cinematic "1:1 Pixel Perfect" landing pages with advanced GSAP animations and curated aesthetic presets.
+user-invocable: true
+---
+
 # Cinematic Landing Page Builder
 
 ## Role

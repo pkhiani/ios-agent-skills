@@ -6,7 +6,10 @@ This repository curates powerful, specialized skills designed to streamline the 
 
 ### 🎨 Design 
 
-* **[App Onboarding Questionnaire (`app-onboarding-questionnaire`)](./Design/claude-skill-app-onboarding-questionnaire/)**
+* **[Cinematic Landing Page Builder (`cinematic-landing-page-builder`)](./Design/cinematic-landing-page-builder/)**
+  Build high-fidelity, cinematic "1:1 Pixel Perfect" landing pages with advanced GSAP animations and curated aesthetic presets. It guides you from selecting a high-end visual preset to dynamically wiring a custom scrolling experience.
+
+* **[App Onboarding Questionnaire (`app-onboarding-questionnaire`)](./Design/app-onboarding-questionnaire/)**
   Design and build a high-converting questionnaire-style onboarding flow for your app, modeled on proven conversion patterns from top subscription applications. It guides you from app discovery and defining the user transformation, to blueprinting screens and implementing code.
 
 ### 📈 Marketing
