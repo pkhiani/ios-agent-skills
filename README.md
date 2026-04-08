@@ -14,5 +14,8 @@ This repository curates powerful, specialized skills designed to streamline the 
 
 ### 📈 Marketing
 
+* **[Popular Video Hooks (`popular-video-hooks`)](./Marketing/popular-video-hooks/)**
+  Generate high-performing video and marketing hooks based on proven viral templates. Craft scroll-stopping, high-retention hooks for TikTok, Reels, and YouTube Shorts.
+
 * **[ASO App Store Screenshots (`aso-appstore-screenshots`)](./Marketing/appstore-screenshots/)**
   Generate high-converting App Store screenshots by analyzing your app's codebase, discovering core benefits, and creating ASO-optimized screenshot images using Antigravity's image generation tools. It ensures your store assets are visually compelling and adhere natively to Apple's dimensions.
